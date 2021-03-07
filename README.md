@@ -11,7 +11,7 @@ you unique: hobbies, talents, fun-facts, technologies that you love.
 
 Here are some examples of things that can fit well:
 
-✅ מדברת סינית שוטפת  
+<p dir="rtl">✅ מדברת סינית שוטפת  
 ✅ מתנדב במד"א  
 ✅ חובבת מושבעת של בדיקות אוטומטיות וקוד מסודר  
 ✅ אוהב לאפות עוגות וקינוחים  
@@ -19,14 +19,14 @@ Here are some examples of things that can fit well:
 ✅ מנגנת בחליל פן  
 ✅ גולש רוח וגלים וצולל בכל הזדמנות אפשרית  
 ✅ מתנדבת בשיקודס  
-✅ בזמני הפנוי אוהב לתופף, להקליט ולהופיע עם הלהקה שלי
+✅ בזמני הפנוי אוהב לתופף, להקליט ולהופיע עם הלהקה שלי</p>
 
 And these are examples of things that don't really add value, they may sound "smart" but when
 other people read it, it doesn't help them connect with you:
 
-🚫 אוהב לקודד ולישון, לא בהכרח בסדר הזה  
+<p dir="rtl">🚫 אוהב לקודד ולישון, לא בהכרח בסדר הזה  
 🚫 It's okay password, I'm insecure too  
-🚫 מחליף תחביבים כל שבוע, מוזמנים לשאול אותי מה הפעם.
+🚫 מחליף תחביבים כל שבוע, מוזמנים לשאול אותי מה הפעם.</p>
 
 ### The technical stuff
 
